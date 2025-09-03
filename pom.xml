@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.mb.weekmeal</groupId>
-    <artifactId>week_meal</artifactId>
+    <artifactId>ToDoApp</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
